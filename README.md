@@ -1,5 +1,3 @@
-# Python-To-Do-app
-A simple and efficient To-Do List application built with Python using JSON for data persistence.
 # Simple Python To-Do List
 
 This is a beginner-friendly To-Do List application built using Python. It helps users manage their daily tasks with a simple command-line interface.
